@@ -40,17 +40,11 @@ Ext.define('ProyectoPrueba.view.main.Main', {
         region: 'center',
         xtype: 'tabpanel',
         items:[{
-            title: 'Tab 1',
+            title: 'CLIENTES',
             html: '<h2>CONFLICTOOOO </h2>'
         },{
-        	title: 'Esto trajo conflictos'
-        	,items:[{
-        		html: 'lo resolvi'
-        	},{
-        		html: 'me dieron Epw-o6 que es una nueva funcionalidad'
-        	},{
-        		html: 'me falto decir que agregue la foto EPW-08'
-        	}]
+        	 title: 'PROVEEDORES'
+        	,html: '<h2> EPW-11</h2>'
 
         }]
     }]
