@@ -46,6 +46,8 @@ Ext.define('ProyectoPrueba.view.main.Main', {
         	title: 'Esto trajo conflictos'
         	,items:[{
         		html: 'lo resolvi'
+        	},{
+        		html: 'me dieron Epw-o6 que es una nueva funcionalidad'
         	}]
 
         }]
