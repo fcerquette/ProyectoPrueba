@@ -23,4 +23,7 @@ Ext.define('ProyectoPrueba.view.main.MainController', {
             //
         }
     }
+    ,onFlorencia: function (btn) {
+    	console.log('florencia click');
+    }
 });
