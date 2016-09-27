@@ -26,4 +26,7 @@ Ext.define('ProyectoPrueba.view.main.MainController', {
     ,onFlorencia: function (btn) {
     	console.log('florencia click');
     }
+    ,onCerquette: function (btn) {
+    	console.log('cerquette click');
+    }
 });
