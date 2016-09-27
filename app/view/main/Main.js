@@ -42,6 +42,8 @@ Ext.define('ProyectoPrueba.view.main.Main', {
         items:[{
             title: 'Tab 1',
             html: '<h2>Hice un cambio lalala Epw-01.ahora agrego epw-03</h2>'
+        },{
+        	title: 'EPW-04: crear titulo'
         }]
     }]
 });
