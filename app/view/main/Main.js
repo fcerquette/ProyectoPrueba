@@ -48,6 +48,8 @@ Ext.define('ProyectoPrueba.view.main.Main', {
         		html: 'lo resolvi'
         	},{
         		html: 'me dieron Epw-o6 que es una nueva funcionalidad'
+        	},{
+        		html: 'me falto decir que agregue la foto EPW-08'
         	}]
 
         }]
