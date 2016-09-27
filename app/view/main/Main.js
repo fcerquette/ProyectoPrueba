@@ -41,7 +41,17 @@ Ext.define('ProyectoPrueba.view.main.Main', {
         xtype: 'tabpanel',
         items:[{
             title: 'Tab 1',
-            html: '<h2>Hice un cambio lalala Epw-01.</h2>'
+            html: '<h2>Hice un cambio lalala Epw-01.ahora agrego epw-03</h2>'
+        },{
+        	title: 'Esto trajo conflictos'
+        	,items:[{
+        		html: 'lo resolvi'
+        	},{
+        		html: 'me dieron Epw-o6 que es una nueva funcionalidad'
+        	},{
+        		html: 'me falto decir que agregue la foto EPW-08'
+        	}]
+
         }]
     }]
 });
