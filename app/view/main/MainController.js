@@ -15,7 +15,7 @@ Ext.define('ProyectoPrueba.view.main.MainController', {
     alias: 'controller.main',
 
     onClickButton: function () {
-        Ext.Msg.confirm('Confirm', 'Are you sure?', 'onConfirm', this);
+        Ext.Msg.confirm('Confirme', 'Esta sefururo?', 'onConfirm', this);
     },
 
     onConfirm: function (choice) {
