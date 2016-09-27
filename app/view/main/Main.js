@@ -41,7 +41,7 @@ Ext.define('ProyectoPrueba.view.main.Main', {
         xtype: 'tabpanel',
         items:[{
             title: 'Tab 1',
-            html: '<h2>HOTFIX 9 </h2>'
+            html: '<h2>CONFLICTOOOO </h2>'
         },{
         	title: 'Esto trajo conflictos'
         	,items:[{
