@@ -41,7 +41,7 @@ Ext.define('ProyectoPrueba.view.main.Main', {
         xtype: 'tabpanel',
         items:[{
             title: 'Tab 1',
-            html: '<h2>Hice un cambio lalala.</h2>'
+            html: '<h2>Hice un cambio lalala Epw-01.</h2>'
         }]
     }]
 });
