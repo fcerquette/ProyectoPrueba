@@ -29,7 +29,7 @@ Ext.define('ProyectoPrueba.view.main.Main', {
             title: '{name}'
         },
         region: 'west',
-        html: '<ul><li>Este seria un cambio para la version master y para develop.</li></ul>',
+        html: '<ul><li>Florenciaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.</li></ul>',
         width: 250,
         split: true,
         tbar: [{
