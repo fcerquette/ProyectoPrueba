@@ -29,7 +29,7 @@ Ext.define('ProyectoPrueba.view.main.Main', {
             title: '{name}'
         },
         region: 'west',
-        html: '<ul><li>Florenciaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.</li></ul>',
+        html: '<ul><li>Florenciaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa cerqueteeeeeeeeeeeee ticket 1.</li></ul>',
         width: 250,
         split: true,
         tbar: [{
