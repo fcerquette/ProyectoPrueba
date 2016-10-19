@@ -35,6 +35,12 @@ Ext.define('ProyectoPrueba.view.main.Main', {
         tbar: [{
             text: 'Button',
             handler: 'onClickButton'
+        },{
+
+        	text:'button2'
+},{
+        	text: 'Button1''
+
         }]
     },{
         region: 'center',
@@ -46,6 +52,9 @@ Ext.define('ProyectoPrueba.view.main.Main', {
         	 title: 'PROVEEDORES'
         	,html: '<h2> EPW-11</h2>'
 
+        },{
+        	title: 'Button 3'
+        	hola:'3'
         }]
     }]
 });
