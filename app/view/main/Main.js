@@ -36,7 +36,11 @@ Ext.define('ProyectoPrueba.view.main.Main', {
             text: 'Button',
             handler: 'onClickButton'
         },{
+
         	text:'button2'
+},{
+        	text: 'Button1''
+
         }]
     },{
         region: 'center',
