@@ -54,6 +54,7 @@ Ext.define('ProyectoPrueba.view.main.Main', {
 
         },{
         	title: 'Button 3'
+        	hola:'3'
         }]
     }]
 });
