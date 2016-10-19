@@ -39,7 +39,8 @@ Ext.define('ProyectoPrueba.view.main.Main', {
 
         	text:'button2'
 },{
-        	text: 'Button1''
+        	text: 'Button1'
+        	,hola: 'f1'
 
         }]
     },{
