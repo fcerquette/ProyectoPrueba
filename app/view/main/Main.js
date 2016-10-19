@@ -35,6 +35,8 @@ Ext.define('ProyectoPrueba.view.main.Main', {
         tbar: [{
             text: 'Button',
             handler: 'onClickButton'
+        },{
+        	text: 'Button1''
         }]
     },{
         region: 'center',
